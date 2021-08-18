@@ -6,6 +6,7 @@ authors = ["Awonkhrais <awonkhrais@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+Faker = "^8.11.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
